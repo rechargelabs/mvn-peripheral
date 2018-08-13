@@ -3,10 +3,11 @@
   <groupId>com.google.dagger</groupId>
   <artifactId>dagger</artifactId>
   <versioning>
-    <release>2.0-SNAPSHOT-20150315</release>
+    <release>2.17-edenman-kapt-bug-workaround</release>
     <versions>
-      <version>2.0-SNAPSHOT-20150315</version>
+      <version>LOCAL-SNAPSHOT</version>
+      <version>2.17-edenman-kapt-bug-workaround</version>
     </versions>
-    <lastUpdated>20150315192827</lastUpdated>
+    <lastUpdated>20180813202727</lastUpdated>
   </versioning>
 </metadata>
