@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 13 12:38:35 PDT 2018
+dagger-android-support-LOCAL-SNAPSHOT-javadoc.jar>=
+dagger-android-support-LOCAL-SNAPSHOT.pom>=
+dagger-android-support-LOCAL-SNAPSHOT.aar>=
+dagger-android-support-LOCAL-SNAPSHOT-sources.jar>=

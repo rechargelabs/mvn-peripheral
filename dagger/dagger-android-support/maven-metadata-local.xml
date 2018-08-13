@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.dagger</groupId>
+  <artifactId>dagger-android-support</artifactId>
+  <versioning>
+    <release>2.17-edenman-kapt-bug-workaround</release>
+    <versions>
+      <version>LOCAL-SNAPSHOT</version>
+      <version>2.17-edenman-kapt-bug-workaround</version>
+    </versions>
+    <lastUpdated>20180813202738</lastUpdated>
+  </versioning>
+</metadata>

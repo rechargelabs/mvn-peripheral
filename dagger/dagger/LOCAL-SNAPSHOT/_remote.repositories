@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 13 12:36:50 PDT 2018
+dagger-LOCAL-SNAPSHOT-javadoc.jar>=
+dagger-LOCAL-SNAPSHOT.jar>=
+dagger-LOCAL-SNAPSHOT.pom>=
+dagger-LOCAL-SNAPSHOT-sources.jar>=

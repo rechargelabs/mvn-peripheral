@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 13 12:38:44 PDT 2018
+dagger-android-processor-LOCAL-SNAPSHOT-sources.jar>=
+dagger-android-processor-LOCAL-SNAPSHOT.jar>=
+dagger-android-processor-LOCAL-SNAPSHOT-javadoc.jar>=
+dagger-android-processor-LOCAL-SNAPSHOT.pom>=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 13 13:27:38 PDT 2018
+dagger-android-support-2.17-edenman-kapt-bug-workaround-sources.jar>=
+dagger-android-support-2.17-edenman-kapt-bug-workaround.pom>=
+dagger-android-support-2.17-edenman-kapt-bug-workaround.aar>=
+dagger-android-support-2.17-edenman-kapt-bug-workaround-javadoc.jar>=

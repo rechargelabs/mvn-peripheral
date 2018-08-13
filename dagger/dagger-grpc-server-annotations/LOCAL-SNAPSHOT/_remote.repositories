@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 13 12:38:56 PDT 2018
+dagger-grpc-server-annotations-LOCAL-SNAPSHOT.jar>=
+dagger-grpc-server-annotations-LOCAL-SNAPSHOT-javadoc.jar>=
+dagger-grpc-server-annotations-LOCAL-SNAPSHOT.pom>=
+dagger-grpc-server-annotations-LOCAL-SNAPSHOT-sources.jar>=

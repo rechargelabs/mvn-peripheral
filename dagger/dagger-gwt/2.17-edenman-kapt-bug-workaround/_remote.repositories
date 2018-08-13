@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 13 13:27:28 PDT 2018
+dagger-gwt-2.17-edenman-kapt-bug-workaround.jar>=
+dagger-gwt-2.17-edenman-kapt-bug-workaround-sources.jar>=
+dagger-gwt-2.17-edenman-kapt-bug-workaround.pom>=
+dagger-gwt-2.17-edenman-kapt-bug-workaround-javadoc.jar>=
