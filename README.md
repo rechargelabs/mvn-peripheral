@@ -17,3 +17,13 @@ repositories {
 ```groovy
 compile 'com.google.android:annotations:4.1.1.4'
 ```
+
+Build steps:
+
+# cd into dagger                                                 
+# util/install-local-snapshot.sh
+# cp -R ~/.m2/repository/com/google/dagger path/to/mvn-peripheral/com/google/
+
+# cd back into mvn-peripheral                                    
+# git commit -m "omg"
+# git push
